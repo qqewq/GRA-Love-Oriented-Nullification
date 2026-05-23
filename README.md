@@ -1,3 +1,109 @@
+# GRA Love Oriented Nullification
+
+**RU / EN bilingual README**
+
+---
+
+## О проекте / About the project
+
+**RU:**  
+GRA Love Oriented Nullification — это исследовательский проект, посвящённый разработке и описанию концепции GRA в рамках love-oriented подхода к субъективности, идентичности и архитектуре искусственного интеллекта.
+
+**EN:**  
+GRA Love Oriented Nullification is a research project focused on developing and describing the GRA concept within a love-oriented approach to subjectivity, identity, and AI architecture.
+
+---
+
+## Цели / Goals
+
+**RU:**
+- Формализовать основные идеи проекта.
+- Описать архитектурные принципы и ключевые термины.
+- Сформировать основу для дальнейших исследований и реализации.
+
+**EN:**
+- Formalize the core ideas of the project.
+- Describe the architectural principles and key terms.
+- Build a foundation for further research and implementation.
+
+---
+
+## Ключевые идеи / Core ideas
+
+**RU:**
+- Субъектность как структурный элемент системы.
+- Nullification как методологический принцип.
+- Love-oriented логика как способ организации взаимодействия.
+- Модульность и расширяемость описания.
+
+**EN:**
+- Subjectivity as a structural element of the system.
+- Nullification as a methodological principle.
+- Love-oriented logic as a way to organize interaction.
+- Modularity and extensibility of the description.
+
+---
+
+## Структура репозитория / Repository structure
+
+**RU:**
+- `README.md` — основное описание проекта.
+- `docs/` — дополнительные материалы и статьи.
+- `src/` — исходный код, если он присутствует.
+- `assets/` — изображения, схемы и визуальные материалы.
+
+**EN:**
+- `README.md` — main project description.
+- `docs/` — additional materials and articles.
+- `src/` — source code, if present.
+- `assets/` — images, diagrams, and visual materials.
+
+---
+
+## Как использовать / How to use
+
+**RU:**
+1. Склонируйте репозиторий.
+2. Ознакомьтесь с документацией.
+3. Изучите основные концепции.
+4. При необходимости используйте проект как базу для собственных экспериментов.
+
+**EN:**
+1. Clone the repository.
+2. Read the documentation.
+3. Study the core concepts.
+4. Use the project as a basis for your own experiments if needed.
+
+---
+
+## Статус проекта / Project status
+
+**RU:**  
+Проект находится в стадии исследования и концептуального развития.
+
+**EN:**  
+The project is in the research and conceptual development stage.
+
+---
+
+## Вклад / Contributing
+
+**RU:**  
+Приветствуются идеи, исправления и предложения по развитию проекта.
+
+**EN:**  
+Ideas, fixes, and suggestions for improving the project are welcome.
+
+---
+
+## Лицензия / License
+
+**RU:**  
+Укажите лицензию проекта здесь.
+
+**EN:**  
+Specify the project license here.
+
 # GRA-Love-Oriented-Nullification
 
 **GRA-Obnulenka-Semantic-Love**
